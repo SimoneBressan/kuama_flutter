@@ -80,4 +80,4 @@ build/
 coverage
 .pubspec.lock
 **.g.dart
-**.mocks.dart
+test/**/*.mocks.dart
